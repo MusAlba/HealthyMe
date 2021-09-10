@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+body{
+    font-family: 'Comfortaa', cursive !important;
+}
+
+.text-embers{
+    color:#B82601;
+}
+.text-green{
+    color: #1D951B;
+}
+.text-white{
+    color:#ffffff;
+}
+.text-center{
+    text-align:center;
+}
+.text-black{
+    color:#000000;
+}
+.text-center{
+    text-align: center;
+}
+
+.bg-embers{
+    background-color: #B82601;
+}
+
+.nav-link{
+    color:#ffffff !important;
+}
+
+.btn-embers {
+    background-image: linear-gradient(to right, #B82601 0%, #b31217  51%, #B82601 100%);
+    color:white !important;
+}
+
+
+.login-container{
+    width:70vh;
+    padding-left:3%;
+    padding-right:3%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -40%;
+    transform: translate(-50%, -50%); 
+    box-shadow:2px 5px 10px gray;
+}
+.login-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title{
+    text-align:center;
+    color: #1D951B;
+    padding: 5px;
+}
+.motto{
+    text-align:center;
+    color:#B82601;
+}
+.footer{
+    color: #1D951B;
+}
+.footer a{
+    color: #B82601;
+}
